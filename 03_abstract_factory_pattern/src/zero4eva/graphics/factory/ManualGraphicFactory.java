@@ -7,13 +7,7 @@ import zero4eva.graphics.graphic.manual.ManualCircleGraphic;
 import zero4eva.graphics.graphic.manual.ManualRectGraphic;
 import zero4eva.graphics.graphic.manual.ManualTriangleGraphic;
 
-/**
- * @ClassName RegularGraphicFactory
- * @Description TODO
- * @Author Yang
- * @Date 2019-5-15-0015 22:22
- * @Version 1.0
- **/
+
 public class ManualGraphicFactory extends BaseGraphicFactory{
     @Override
     public CircleGraphic getCircle() {
