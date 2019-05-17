@@ -1,6 +1,6 @@
-package zero4eva.graphics.graphic.manual;
+package cn.zero4eva.graphics.graphic.manual;
 
-import zero4eva.graphics.graphic.base.TriangleGraphic;
+import cn.zero4eva.graphics.graphic.base.TriangleGraphic;
 
 
 public class ManualTriangleGraphic extends TriangleGraphic {

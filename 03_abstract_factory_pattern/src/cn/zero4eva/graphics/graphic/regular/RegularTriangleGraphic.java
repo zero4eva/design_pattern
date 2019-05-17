@@ -1,6 +1,6 @@
-package zero4eva.graphics.graphic.regular;
+package cn.zero4eva.graphics.graphic.regular;
 
-import zero4eva.graphics.graphic.base.TriangleGraphic;
+import cn.zero4eva.graphics.graphic.base.TriangleGraphic;
 
 
 public class RegularTriangleGraphic extends TriangleGraphic {

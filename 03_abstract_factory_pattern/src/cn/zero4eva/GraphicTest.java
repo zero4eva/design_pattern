@@ -1,10 +1,10 @@
-package zero4eva;
+package cn.zero4eva;
 
 
-import zero4eva.graphics.factory.BaseGraphicFactory;
-import zero4eva.graphics.factory.ManualGraphicFactory;
-import zero4eva.graphics.graphic.base.CircleGraphic;
-import zero4eva.graphics.graphic.base.RectGraphic;
+import cn.zero4eva.graphics.factory.BaseGraphicFactory;
+import cn.zero4eva.graphics.factory.ManualGraphicFactory;
+import cn.zero4eva.graphics.graphic.base.CircleGraphic;
+import cn.zero4eva.graphics.graphic.base.RectGraphic;
 
 
 public class GraphicTest {

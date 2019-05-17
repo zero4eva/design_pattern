@@ -1,6 +1,6 @@
-package zero4eva.graphics.graphic.regular;
+package cn.zero4eva.graphics.graphic.regular;
 
-import zero4eva.graphics.graphic.base.CircleGraphic;
+import cn.zero4eva.graphics.graphic.base.CircleGraphic;
 
 
 public class RegularCircleGraphic extends CircleGraphic {
