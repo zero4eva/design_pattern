@@ -1,6 +1,5 @@
 package cn.zero4eva;
 
-import cn.zero4eva.Printer.EnumPrinter;
 import cn.zero4eva.Printer.SimpleLazyPrinter;
 
 public class PrintTest {
