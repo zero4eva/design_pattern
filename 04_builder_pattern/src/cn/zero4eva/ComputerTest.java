@@ -9,7 +9,8 @@ import cn.zero4eva.computer.HighComputerBuilder;
 public class ComputerTest {
     public static void main(String[] args) {
         ComputerBuilder builder = new HighComputerBuilder();
-        ComputerDirector director = new ComputerDirector(builder);
+        ComputerDirector director = new ComputerDirector();
+        director.setBuilder(builder);
         Computer computer = director.Construct();
         System.out.println(computer.toString());
     }

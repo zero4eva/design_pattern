@@ -22,7 +22,6 @@ public class LoginServiceProxy implements ILoginService{
         System.out.println("    name: " + name + ", password: " + password);
     }
 
-
     public void afterService(boolean loginResult) {
         System.out.println("login result: " + loginResult);
         System.out.println("-----------------------------------------------------------------");

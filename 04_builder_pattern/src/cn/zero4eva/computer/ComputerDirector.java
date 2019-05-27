@@ -5,6 +5,14 @@ public class ComputerDirector {
 
     private ComputerBuilder builder;
 
+    public ComputerDirector() {
+
+    }
+
+    public void setBuilder(ComputerBuilder builder) {
+        this.builder = builder;
+    }
+
     public ComputerDirector(ComputerBuilder builder) {
         this.builder = builder;
     }
